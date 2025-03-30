@@ -31,6 +31,7 @@ The goal of this project is to demonstrate key object-oriented programming (OOP)
 Each implementation showcases these principles in the context of a ride-sharing system that includes rides, drivers, and riders.
 
 ## Project Structure
+```
 ride-sharing-system/
 ├── cpp/                      # C++ implementation
 │   ├── CMakeLists.txt
@@ -55,6 +56,7 @@ ride-sharing-system/
 │
 ├── README.md                 # Overview (this file)
 
+```
 
 ---
 
