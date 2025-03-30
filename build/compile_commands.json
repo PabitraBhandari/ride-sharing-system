@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/build",
+  "command": "/usr/bin/clang++  -I/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/rideshare.dir/src/Driver.cpp.o -c /Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/Driver.cpp",
+  "file": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/Driver.cpp",
+  "output": "CMakeFiles/rideshare.dir/src/Driver.cpp.o"
+},
+{
+  "directory": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/build",
+  "command": "/usr/bin/clang++  -I/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/rideshare.dir/src/PremiumRide.cpp.o -c /Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/PremiumRide.cpp",
+  "file": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/PremiumRide.cpp",
+  "output": "CMakeFiles/rideshare.dir/src/PremiumRide.cpp.o"
+},
+{
+  "directory": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/build",
+  "command": "/usr/bin/clang++  -I/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/rideshare.dir/src/Ride.cpp.o -c /Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/Ride.cpp",
+  "file": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/Ride.cpp",
+  "output": "CMakeFiles/rideshare.dir/src/Ride.cpp.o"
+},
+{
+  "directory": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/build",
+  "command": "/usr/bin/clang++  -I/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/rideshare.dir/src/Rider.cpp.o -c /Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/Rider.cpp",
+  "file": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/Rider.cpp",
+  "output": "CMakeFiles/rideshare.dir/src/Rider.cpp.o"
+},
+{
+  "directory": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/build",
+  "command": "/usr/bin/clang++  -I/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/rideshare.dir/src/StandardRide.cpp.o -c /Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/StandardRide.cpp",
+  "file": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/StandardRide.cpp",
+  "output": "CMakeFiles/rideshare.dir/src/StandardRide.cpp.o"
+},
+{
+  "directory": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/build",
+  "command": "/usr/bin/clang++  -I/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/rideshare.dir/src/main.cpp.o -c /Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/main.cpp",
+  "file": "/Users/cristbhandari/Documents/MastersD./Sem2/ADV.ProgLan/week11-12/ride-sharing-system/src/main.cpp",
+  "output": "CMakeFiles/rideshare.dir/src/main.cpp.o"
+}
+]
