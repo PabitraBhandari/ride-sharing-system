@@ -1,18 +1,3 @@
-# Ride Sharing System
-- **Course**: MSCS-632 – Advanced Programming Languages  
-- **Assignment**: 5 – Programming: Object-Oriented System  
-- **Instructor**: Dr. Vanessa Cooper  
-- **University**: University of the Cumberlands  
-- **Term**: Spring 2025  
-
----
-
-**Pabitra Bhandari**  
-Master of Science in Computer Science  
-University of the Cumberlands  
-[GitHub Profile](https://github.com/PabitraBhandari/ride-sharing-system)  
-**Email**: pbhandari28619@ucumberlands.edu
-
 This project demonstrates core **Object-Oriented Programming (OOP)** principles:
 - **Encapsulation**
 - **Inheritance**
