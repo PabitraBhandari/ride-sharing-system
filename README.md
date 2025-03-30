@@ -30,8 +30,31 @@ The goal of this project is to demonstrate key object-oriented programming (OOP)
 
 Each implementation showcases these principles in the context of a ride-sharing system that includes rides, drivers, and riders.
 
-## 📁 Project Structure
-ride-sharing-system/ ├── cpp/ # C++ implementation ├── smalltalk/ # Smalltalk (Pharo 12) implementation ├── README.md # This file
+## Project Structure
+ride-sharing-system/
+├── cpp/                      # C++ implementation
+│   ├── CMakeLists.txt
+│   ├── include/              # Header files for each class
+│   │   ├── Ride.hpp
+│   │   ├── StandardRide.hpp
+│   │   ├── PremiumRide.hpp
+│   │   ├── Driver.hpp
+│   │   └── Rider.hpp
+│   └── src/                  # Source files with method implementations
+│       ├── main.cpp
+│       ├── Ride.cpp
+│       ├── StandardRide.cpp
+│       ├── PremiumRide.cpp
+│       ├── Driver.cpp
+│       └── Rider.cpp
+│
+├── smalltalk/                # Smalltalk (Pharo 12) implementation
+│   ├── RideSharing.image
+│   ├── RideSharing.changes
+│   ├── Pharo12.0-64bit-a056513.sources
+│
+├── README.md                 # Overview (this file)
+
 
 ---
 
