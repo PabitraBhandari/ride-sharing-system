@@ -5,27 +5,6 @@ This project demonstrates core **Object-Oriented Programming (OOP)** principles:
 
 ---
 
-## 📁 Project Structure
-
-```
-ride-sharing-system/
-├── CMakeLists.txt
-├── include/              # Header files for each class
-│   ├── Ride.hpp
-│   ├── StandardRide.hpp
-│   ├── PremiumRide.hpp
-│   ├── Driver.hpp
-│   └── Rider.hpp
-├── src/                  # Source files with method implementations
-│   ├── main.cpp
-│   ├── Ride.cpp
-│   ├── StandardRide.cpp
-│   ├── PremiumRide.cpp
-│   ├── Driver.cpp
-│   └── Rider.cpp
-```
-
----
 
 ## OOP Principles Demonstrated
 
